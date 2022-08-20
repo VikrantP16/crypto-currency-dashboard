@@ -1,2 +1,9 @@
 # crypto-currency-dashboard
-An application built using React and Node. This application enables the user to convert prices of various cryptocurrencies with an in-built feature of news feed.
+
+This application converts the price of various cryptocurrencies using an
+integrated API.
+The application frontend is built using React and the backend is built using
+Node js.
+An additional feature which shows the latest news is implemented in this
+application which lets the user find out more about the cryptocurrencies
+that the user is interested in.
